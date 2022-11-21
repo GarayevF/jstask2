@@ -52,7 +52,7 @@
 //         text.style.color = "black";
 //         text.innerHTML = "Duzgun qrup adi daxil edin";
 //     }else{
-//         var groupNo = input.value.slice(-3).substring(0, 1);
+//         var groupNo = input.value.slice(-3, -2);
 //         if (groupNo == 1) {
 //             text.innerHTML = "Seher qrupu"
 //             text.style.color = "yellow";
